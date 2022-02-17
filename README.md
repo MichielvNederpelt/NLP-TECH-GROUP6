@@ -32,8 +32,8 @@ REQUIREMENTS
 
 Downloads:
 
-Spacy library: https://spacy.io/usage
-NLTK library: https://www.nltk.org/_modules/nltk/downloader.html
+- Spacy library: https://spacy.io/usage
+- NLTK library: https://www.nltk.org/_modules/nltk/downloader.html
 
 
 How to run
