@@ -20,6 +20,7 @@ The following features have been extracted:
 - Children: The immediate syntactic dependents of the token
 - Descendants: All descendents of the current token
 - Ancestors: All ancestors of the current token
+- Syntactic constituents: NLTK constituency tree 
 - n-grams: token bigrams and trigrams
 - previous and next tokens: token+1, token+2, token-1, token-2
 
