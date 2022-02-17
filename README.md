@@ -17,10 +17,10 @@ The following features have been extracted:
 - token_ent_type: The NER tag of the current token
 - length_to_head: The distance between the current token and the head in integer
 - path_to_head: The path from the current token to the head, displays all tokens in the path
-- Children: The immediate syntactic dependents of the token
-- Descendants: All descendents of the current token
-- Ancestors: All ancestors of the current token
-- Syntactic constituents: NLTK constituency tree 
+- children: The immediate syntactic dependents of the token
+- descendants: All descendents of the current token
+- ancestors: All ancestors of the current token
+- syntactic constituents: NLTK constituency tree 
 - n-grams: token bigrams and trigrams
 - previous and next tokens: token+1, token+2, token-1, token-2
 
