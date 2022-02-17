@@ -26,9 +26,9 @@ The following features have been extracted:
 
 REQUIREMENTS
 
-Python 3.7
-SpaCy 3.1.3
-NLTK 3.6.3
+- Python 3.7
+- SpaCy 3.1.3
+- NLTK 3.6.3
 
 Downloads:
 
