@@ -42,10 +42,15 @@ This script has been created in Google Colab and exported to a notebook.
 The cells can be run in order of appearance. The output is already visible.
 
 Taks 2 - Neural SRL
+
 Definition, inputs and outputs:
+
 DatasetReader; In this step, we use the DatasetRead to read raw datafiles and transform them into instances to match the input and output. The input is a text (textfield), while the output are labels (labelfield). 
+
 Model; The model has the same inputs and outputs as DatasetReader. The model takes the instances, in other words, the model makes a prediction for the outputs based on the input. While also computing the loss.
+
 Trainer;
+
 Predictor;
 
 
